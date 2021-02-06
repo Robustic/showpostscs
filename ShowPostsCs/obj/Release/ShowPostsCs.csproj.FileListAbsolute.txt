@@ -1,0 +1,13 @@
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\bin\Release\ShowPostsCs.exe.config
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\bin\Release\ShowPostsCs.exe
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\bin\Release\ShowPostsCs.pdb
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\bin\Release\RestSharp.dll
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\bin\Release\RestSharp.xml
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\obj\Release\ShowPostsCs.csprojAssemblyReference.cache
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\obj\Release\ShowPostsCs.Form1.resources
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\obj\Release\ShowPostsCs.Properties.Resources.resources
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\obj\Release\ShowPostsCs.csproj.GenerateResource.cache
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\obj\Release\ShowPostsCs.csproj.CoreCompileInputs.cache
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\obj\Release\ShowPostsCs.csproj.CopyComplete
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\obj\Release\ShowPostsCs.exe
+C:\Users\Blackstorm\source\repos\ShowPostsCs\ShowPostsCs\obj\Release\ShowPostsCs.pdb
